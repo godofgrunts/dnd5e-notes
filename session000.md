@@ -8,6 +8,8 @@ The other 3 are on a dwarven merchant ship heading to the Dragonlands.
 
 A ship with 6 dragon wings rammed the ship and took the patrons as slaves.
 
+## Things of note
+
 I break Zoex free and Drake frees himself and Calypso.
 
 We're caught by a guard and run.
