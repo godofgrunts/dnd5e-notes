@@ -44,12 +44,12 @@ Female Human Suzanna
 Male Elf? Chef Elanzo
 
 
-
-4 clubs
-4 light crossbows
-2 chain mail
-2 shields
-1 flail
-1 long sword
-30 GP
-Small leather pouch (golf ball sized onyx stone)
+## Loot
+- 4 clubs
+- 4 light crossbows
+- 2 chain mail
+- 2 shields
+- 1 flail
+- 1 long sword
+- 30 GP
+- Small leather pouch (golf ball sized onyx stone)
