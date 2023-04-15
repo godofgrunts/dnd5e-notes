@@ -12,7 +12,7 @@ Ogre #2 runs over his ally and engages Dahl.
 
 Ogre #3 is caught off guard.
 
-During the battle William Beverly repositions in front of a spider web and manages to stop off it's embrace. Dahl manages to kill Ogre #2. Ogre #1 falls the next turn to Suzaana. Ogre #3 turns to run and Dahl taunts him back into a fight.
+During the battle William Beverly repositions in front of a spider web and manages to stop the occupying spider's embrace. Dahl manages to kill Ogre #2. Ogre #1 falls the next turn to Suzaana. Sauriv runs to William Beverly aide, but William Beverly steps back and shoots the spider. Ogre #3 turns to run and Dahl taunts him back into a fight.
 
 Sauriv, not wanting the ogre to be able to run away, uses Command: Sit!
 
