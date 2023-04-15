@@ -16,12 +16,12 @@ During the battle William Beverly repositions in front of a spider web and manag
 
 Sauriv, not wanting the ogre to be able to run away, uses Command: Sit!
 
-In an act of pure reklenesses, under the effects of Heroism, William Beverly loads Calypso into his crossbow and shoots her into a stalactite hanging over the goaded Ogre #3. Calypso smacks into stalactite which causes it fall. Ogre #3 manages to move at the last second and only take half damage.
+In an act of pure recklessness, under the effects of Heroism, William Beverly loads Calypso into his crossbow and shoots her into a stalactite hanging over the goaded Ogre #3. Calypso smacks into stalactite which causes it to fall. Ogre #3 manages to move at the last second and only takes half damage.
+
+![Calypso performing a Death-From-Above](https://github.com/godofgrunts/dnd5e-notes/blob/master/sessions/session002/ogre-pillar-falling.jpg?raw=true)
 
 Ogre #3 suddenly sits down, seemingly accepting his death sentence, and Dahl lops off his head.
 
-## Stuff
-
-Enter ruins into a chamber
-
 ## Loot
+
+- Collection of rocks that have precious minerals (2 lbs of raw ruby ore, 5 pounds of copper ore)
