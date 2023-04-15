@@ -42,7 +42,7 @@ Achuak talked to me. Confirmed that he did send me friends. Told me to make hast
 ## Important People
 Female Human Suzanna 
 
-Male Elf? Chef Elanzo
+Male, Rotund, Kobold Chef Elanzo
 
 
 ## Loot
