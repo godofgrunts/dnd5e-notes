@@ -17,7 +17,7 @@ While discussing the options Sauriv asks which way is faster. Suzanna informs th
 
 The party, with Dahl and Suzanna, head towards the entrance of the ruins where they unexpectedly run into a patrol returing from the ruins.
 
-A battle ensues! Sauriv, not wanting to hurt his kin, grapples one of the attacking dragonborn and cast Sanctuary on Calypso trying to calm the situation. A bolt pierces the dragonborn's skull and Calypso gets her head bashed in by one of the attacking kobolds. This causes Sauriv to go berserk casting Word of Radiance by roaring and nearly hitting Dahl. In a rage that no one has seen of Sauriv, his weapon glows white hot and he smash the skull of the nearby dragonborn and kobold attacking Calypso.
+A battle ensues! Sauriv, not wanting to hurt his kin, grapples one of the attacking dragonborn and cast Sanctuary on Calypso trying to calm the situation. A bolt pierces the dragonborn's skull and Calypso gets her head bashed in by one of the attacking kobolds. This causes Sauriv to go berserk casting [Word of Radiance](https://www.dndbeyond.com/spells/word-of-radiance) by roaring and nearly hitting Dahl. In a rage that no one has seen of Sauriv, his weapon [glows white hot](https://www.dndbeyond.com/spells/searing-smite) and he smash the skull of the nearby dragonborn and kobold attacking Calypso.
 
 While the rest of the group celebrates their victory, Sauriv quietly sits by himself and carves a small, iron effigy of a kobold in memeory the his slain kin.
 
