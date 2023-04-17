@@ -28,13 +28,15 @@ That was all Sauriv needed to hear, he took his ball peen hammer and started to 
 
 "Run! Follow me!" Sauriv yells as he dashes towards the exit.
 
-William Beverly, the human, sprints ahead of Sauriv and makes it to the exit of the room first, but he hears voices and immediately leaps in the air and performs a ceiling cling. Calpyso uses Disguise Self to appear as a Sauriv and rushes forward, hoping to avoid attention. Sauriv follows behind and is very confused to see himself in front of him. Calpyso turns and finger guns at Sauriv saying "You got this buddy!" using Bardic Inspiration. Zoex, the tiefling turns to fight the kobolds invading from the rear.
+William Beverly, the human, sprints ahead of Sauriv and makes it to the exit of the room first, but he hears voices and immediately leaps in the air and performs a ceiling cling. Calpyso uses Disguise Self to appear as a Sauriv and rushes forward, hoping to avoid attention. Sauriv follows behind and is very confused to see himself in front of him. Calpyso turns and finger guns at Sauriv saying "You got this buddy!" using [Bardic Inspiration.](https://www.dndbeyond.com/sources/phb/bard#BardicInspiration) Zoex, the tiefling turns to fight the kobolds invading from the rear using [fire bolt](https://www.dndbeyond.com/spells/fire-bolt).
 
-In the next room, a black [dragonborn](https://www.dndbeyond.com/races/16-dragonborn) and two more kobolds look at the two kobolds in surprise. "That way!" Calypso yells, point back towards the other room and the three head that way. William Beverly, seeing an opportunity, darts forward to round a pillar, but he runs right into Predicator Lause who proceeds to one shot William Beverly with Scorching Ray.
+![Don't look too closely at this image :)](https://github.com/godofgrunts/dnd5e-notes/blob/master/sessions/session000/hide-and-disguise.jpg)
+
+In the next room, a black [dragonborn](https://www.dndbeyond.com/races/16-dragonborn) and two more kobolds look at the two kobolds in surprise. "That way!" Calypso yells, point back towards the other room and the three head that way. William Beverly, seeing an opportunity, darts forward to round a pillar, but he runs right into Predicator Lause who proceeds to one shot William Beverly with [Scorching Ray.](https://www.dndbeyond.com/spells/scorching-ray)
 
 In the previous room, Zoex has already blasted one kobold with a firebolt and comes face to face with the three new combatants and cast burning hands catching the kobold and dragonborn in the blast.
 
-Sauriv runs up the Predicator Lause and exclaims "Wait! Achuak Yaersunar has told me to bring these three with on a quest! Look! He has blessed me with his breath!" and with the Bardic Inspiration breaths a very convincing Poison Spray. Annoyed, but convinced, Predicator Lause turns and leaves.
+Sauriv runs up the Predicator Lause and exclaims "Wait! Achuak Yaersunar has told me to bring these three with on a quest! Look! He has blessed me with his breath!" and with the Bardic Inspiration breaths a very convincing Poison Spray. Annoyed, but convinced, Predicator Lause, hands Sauriv a healing potion, turns, and leaves.
 
 Seeing this, the dragonborn commands everyone to stop and sends the remaining Kobolds away. Sauriv turns to leave and and the dragonborn commands him to stay.
 
@@ -58,7 +60,7 @@ Conveniently, these crates contained the gear of the caged members. They all get
 
 #### Sauriv
 
-Kosj was the last born amongst his hatching group and one of the shortest. These factors combined earned him the name Kosj (meaning "small" in Draconic). This wasn't an insult, it was just how he was called. At the age of 6 Kosj took his place with the other young Kobolds in the mines. Moving rocks from the latest expansion to the crushing fields. Life was good. 
+[Kosj](https://www.dndbeyond.com/races/1026395-kobold) was the last born amongst his hatching group and one of the shortest. These factors combined earned him the name Kosj (meaning "small" in Draconic). This wasn't an insult, it was just how he was called. At the age of 6 Kosj took his place with the other young Kobolds in the mines. Moving rocks from the latest expansion to the crushing fields. Life was good. 
 
 At age 6 Kosj was moved to the crushing fields. This meant that Kosj would be assigned a crushing hammer. Kobolds don't really care about vanity, but it is a matter of pride to take care of your tools and Kosj did just that. Life was good.
 
