@@ -4,13 +4,13 @@ Dragonlands
 
 ## Recap
 
-Our story opens up on a [dwarven](https://www.dndbeyond.com/races/13-dwarf) merchant ship sailing across NAME OF OCEAN. As the sun peaks over the horizon the stage is set. Three adventures, a human, a tiefling, and a cat, have found themselves heading towards the Dragonlands each for their reasons.
+Our story opens up on a [dwarven](https://www.dndbeyond.com/races/13-dwarf) merchant ship sailing across the Jasper sea. As the sun peaks over the horizon the stage is set. Three adventures, a human, a tiefling, and a cat, have found themselves heading towards the Dragonlands each for their reasons.
 
 From the east a ship approaches. It is hovering slightly above the water and 6 dragon wings flap powerfully as the ship comes in at ramming speed.
 
 "TILLER TO STARBOARD! READY THE CANNONS! BATTLE STATIONS!"
 
-The calls came to late, however, as the dragon winged ship rammed into the vessel only moments later. The dwarves tried to mount a resistance, but it was crushed under the force of the SCALELESS. Almost as quickly as it started, it was over. Every person still alive was captured and loaded onto the ship. After a few hours of traveling, our heros find themselves naked, caged, and located underground in some kind of mine.
+The calls came to late, however, as the dragon winged ship rammed into the vessel only moments later. The dwarves tried to mount a resistance, but it was crushed under the force of the Konureta also known as the Scaleless Legion. Almost as quickly as it started, it was over. Every person still alive was captured and loaded onto the ship. After a few hours of traveling, our heros find themselves naked, caged, and located underground in some kind of mine.
 
 Kosj, now known as Sauriv, woke up wondering if the previous day had been a dream, but as he looked to his left and found the dragon scale shield he knew this was not the case. [Achuak Yaersunar](https://www.dndbeyond.com/monsters/16770-adult-green-dragon) had tasked him with a holy mission and he knew he must go. Sauriv puts on his gear and heads for the exit to the mines.
 
