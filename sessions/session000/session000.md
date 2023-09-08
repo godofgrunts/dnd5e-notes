@@ -16,7 +16,7 @@ Kosj, now known as Sauriv, woke up wondering if the previous day had been a drea
 
 Walking into the next room, Sauriv sees three cages that had not been there before. Curiously he approaches them.
 
-"Hey, you got any keys on you?" the naked human whispers to the kobold. Sauriv had not known where these people had come from and simply replied, "Keys?".
+"Hey, you got any keys on you?" the naked half-elf whispers to the kobold. Sauriv had not known where these people had come from and simply replied, "Keys?".
 
 "Yeah you got to get us out of here." the human stated as if it should have been obvious.
 
@@ -24,11 +24,11 @@ Walking into the next room, Sauriv sees three cages that had not been there befo
 
 "Uh... Yeah. He totally sent us to help you, now get us out!"
 
-That was all Sauriv needed to hear, he took his ball peen hammer and started to smash the lock of the tiefling (the closest cage to him) while the human used worked on the other locks. The noise attracted attention from a nearby room and a kobold rounds the corner.
+That was all Sauriv needed to hear, he took his ball peen hammer and started to smash the lock of the tiefling (the closest cage to him) while the half-elf used Calpyso's claws to pick the other locks. The noise attracted attention from a nearby room and a kobold rounds the corner.
 
 "Run! Follow me!" Sauriv yells as he dashes towards the exit.
 
-William Beverly, the human, sprints ahead of Sauriv and makes it to the exit of the room first, but he hears voices and immediately leaps in the air and performs a ceiling cling. Calpyso uses Disguise Self to appear as a Sauriv and rushes forward, hoping to avoid attention. Sauriv follows behind and is very confused to see himself in front of him. Calpyso turns and finger guns at Sauriv saying "You got this buddy!" using [Bardic Inspiration.](https://www.dndbeyond.com/sources/phb/bard#BardicInspiration) Zoex, the tiefling turns to fight the kobolds invading from the rear using [fire bolt](https://www.dndbeyond.com/spells/fire-bolt).
+William Beverly, the the half-elf, sprints ahead of Sauriv and makes it to the exit of the room first, but he hears voices and immediately leaps in the air and performs a ceiling cling. Calpyso uses Disguise Self to appear as a Sauriv and rushes forward, hoping to avoid attention. Sauriv follows behind and is very confused to see himself in front of him. Calpyso turns and finger guns at Sauriv saying "You got this buddy!" using [Bardic Inspiration.](https://www.dndbeyond.com/sources/phb/bard#BardicInspiration) Z, the tiefling turns to fight the kobolds invading from the rear using [fire bolt](https://www.dndbeyond.com/spells/fire-bolt).
 
 ![Don't look too closely at this image :)](https://github.com/godofgrunts/dnd5e-notes/blob/master/sessions/session000/hide-and-disguise.jpg)
 
